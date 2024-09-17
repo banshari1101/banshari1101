@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=banshari1101&label=Profile%20views&color=0e75b6&style=flat" alt="banshari1101" /> </p>
 
-- 🌱 I’m currently learning **React , Databases**
-
 - 💬 Ask me about **C , C++ , MERN stack Web Development**
 
 <h3 align="left">Connect with me:</h3>
