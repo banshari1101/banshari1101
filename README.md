@@ -23,8 +23,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-
 <table style="width:100%;">
   <tr>
     <th>Category</th>
