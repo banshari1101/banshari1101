@@ -62,15 +62,17 @@
   </tr>
   
   <!-- Backend Development -->
-  <tr>
-    <td><b>Backend Development</b></td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="20" height="20" />
-      Node.js
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="20" height="20" />
-      Express.js
-    </td>
-  </tr>
+<tr>
+  <td><b>Backend Development</b></td>
+  <td>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="20" height="20" />
+    Node.js
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="20" height="20" />
+    Express.js
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="20" height="20" />
+    PHP
+  </td>
+</tr>
   
   <!-- Database -->
   <tr>
@@ -106,3 +108,5 @@
   </tr>
   
 </table>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=banshari1101&show_icons=true&locale=en&layout=compact" alt="banshari1101" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=banshari1101&show_icons=true&locale=en" alt="banshari1101" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=banshari1101&" alt="banshari1101" /></p>
+
