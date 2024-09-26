@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **: Building web applications using the MERN stack, and exploring new technologies in full-stack development.**
 - 💬 Ask me about **: C, C++, JavaScript, React, MERN stack, and anything related to web development.**
-- 📫 How to reach me **: You can reach me via LinkedIn or send me an email at 23bece30168banshari@gmail.com.**
+- 📫 How to reach me **: You can reach me via LinkedIn or send me an email at 23bece3o168banshari@gmail.com.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
