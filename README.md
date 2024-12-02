@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Banshari Patel✨</h1>
 <h3 align="center">A passionate Computer Engineering Student from India 🇮🇳</h3>
 <h2 align="center">MERN Stack Developer</h2>
-<img align ="right" alt="coding" width="250" src="https://user-images.githubusercontent.com/81975567/213871187-5f4af020-4be1-4f17-baa2-0a0b3e2909c2.gif">
+<!-- <img align ="right" alt="coding" width="250" src="https://user-images.githubusercontent.com/81975567/213871187-5f4af020-4be1-4f17-baa2-0a0b3e2909c2.gif"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=banshari1101&label=Profile%20views&color=0e75b6&style=flat" alt="banshari1101" /> </p>
 
