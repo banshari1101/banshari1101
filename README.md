@@ -25,7 +25,7 @@
 | Published | *Exploring AI's Influence on Human Thinking: Productivity, Learning, and Cognitive Skills in the Age of XAI* | AISTS 2025, IEEE Gujarat Section |
 | Accepted | *Introduction to IoT — Chapter 2, Quantum Computing, Sensing and Communications for IoT* | Springer (Studies in Computational Intelligence), Feb 2026 |
 | Accepted | *Personalized Mood Detection Using LLMs* | AICCoNS 2026, Springer Nature |
-| Winner | *Student Attendance Tracking & Management System for Rural Schools* | ImpactThon @ KSV 2025–26 — ₹50,000 Research Grant |
+| Winner | *Student Attendance Tracking & Management System for Rural Schools* | ImpactThon @ KSV 2025–26 — ₹50,000 Research Grant and ₹50,000 Prize|
 | Under Review | *Early Epileptic Seizure Diagnosis Through Dilated Temporal CNNs on CHB-MIT EEG Signals* | IEEE-CICON 2026 |
 
 ---
